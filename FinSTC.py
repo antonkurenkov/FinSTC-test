@@ -30,8 +30,9 @@ def validate_xml(xml_path, schema_xsd_path, key=''):
     :param key: вспомогательный ключ для идентификации этапа валидации
     :return: None
     """
-    my_schema = xmlschema.XMLSchema(schema_xsd_path)
+
     try:
+        my_schema = xmlschema.XMLSchema(schema_xsd_path)
         my_schema.validate(xml_path)
         if my_schema.is_valid(xml_path):
             log(f'OK, XML {key} {xml_path} matches {schema_xsd_path} schema!')
