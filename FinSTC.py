@@ -22,7 +22,7 @@ import datetime
 
 """
 
-def validate_xml(xml_path, schema_xsd_path, key=None):
+def validate_xml(xml_path, schema_xsd_path, key=''):
     """
 
     :param xml_path: Путь к проверяемому на соответствие схеме xls файлу
