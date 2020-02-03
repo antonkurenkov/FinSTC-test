@@ -1,0 +1,36 @@
+02/03/20 20:56:16 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 20:56:16 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 20:56:16 ERROR XMLSchemaValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 20:56:26 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 20:56:26 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 20:56:26 ERROR XMLSchemaValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 20:58:07 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 20:58:07 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 20:58:07 ERROR XMLSchemaValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 20:58:31 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 20:58:31 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 20:58:31 ERROR, XMLSchemaValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 21:06:38 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 21:06:38 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 21:06:38 ERROR, XMLSchemaValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 21:16:25 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 21:16:25 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 21:16:25 ERROR, XMLSchemaValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 21:16:37 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 21:16:37 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 21:16:37 ERROR, XMLSchemaValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 21:30:15 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 21:30:15 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 21:30:15 ERROR, XMLSchemaChildrenValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 21:31:13 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 21:31:13 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 21:31:13 ERROR, XMLSchemaChildrenValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 21:31:38 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 21:31:38 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 21:31:38 ERROR, XMLSchemaChildrenValidationError on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd
+02/03/20 21:32:17 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 21:32:17 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 21:32:17 OK, XML output /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd schema!
+02/03/20 21:32:39 OK, XML input /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-in.xsd schema!
+02/03/20 21:32:39 OK, transform XML on /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_in.xml with schema /Users/air/PycharmProjects/JOB APPLIES/FinSTC/transform.xsl
+02/03/20 21:32:39 OK, XML output /Users/air/PycharmProjects/JOB APPLIES/FinSTC/data_out.xml matches /Users/air/PycharmProjects/JOB APPLIES/FinSTC/schema-out.xsd schema!
